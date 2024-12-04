@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amrit1100
 - 👀 I’m interested in making cool, secured, interactive and fully functional websites.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to collaborate on any projects which includes Javascript, Python, React, Mongodb, ExpressJs, NodeJs
 - 📫 How to reach me ... email at amritpreetsingh012@gmail.com
 
